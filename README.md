@@ -1,2 +1,2 @@
 # Stop_Motion
-Initially this started as a stop motion project, then grew into much more.
+Initially this started as a stop motion project, growing into much more.
