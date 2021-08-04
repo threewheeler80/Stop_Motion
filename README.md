@@ -19,3 +19,6 @@ Hardware List
   Glarks 2.54mm pitch JST-XHP 6 pin and 3 pin female/male connectors
   Makerele M3-180807 enclosure box
   
+Ok everything works as far as the code technically!!! lol
+BUT, recently advised that there should have pulldowns on the button inputs, resistors or internally with the script
+Also, when pressing the preview button initially the red led sequin (image button) will illuminate for approx 3-5 seconds then go off. Press the preview button again the red sequin illuminates for approx. one second. Each subsequent press of the preview button the red led sequin quickly illuminates and then off, Odd layout?
