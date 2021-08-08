@@ -22,3 +22,5 @@ Hardware List
 Ok everything works as far as the code technically!!! lol
 BUT, recently advised that there should have pulldowns on the button inputs, resistors or internally with the script
 Also, when pressing the preview button initially the red led sequin (image button) will illuminate for approx 3-5 seconds then go off. Press the preview button again the red sequin illuminates for approx. one second. Each subsequent press of the preview button the red led sequin quickly illuminates and then off, Odd layout?
+
+Installed 10kohm resistors on the GPIO pins/ and 3volt, for the buttons. Noticed that the red LED sequin was dimly lit. Used isopropyl alcohol, toothbrush and compressed air to clean the perma proto bonnet... fixed. Next the python script stopped working specifically  camera initializing and saving images/video to folders. Started again on the recent script... fixed again...
